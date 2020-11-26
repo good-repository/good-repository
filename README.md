@@ -9,4 +9,4 @@
 
 - 📫 How to reach me: https://www.linkedin.com/in/guilhermeborelli/
 
-(i'm still improving this description, so please don't judge me!)
+(i'm improving this description, so please don't judge me!)
