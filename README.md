@@ -1,12 +1,27 @@
-### Hi 👋 I'm Guilherme Fünkler Borelli
+
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I'm Guilherme Fünkler Borelli
+
+A Fullstack web and mobile Developer. I'm currently working at W16 Software House in Florianópolis - Brazil.
 
 
-- 🔭 I’m currently working at W16 software house with a lot of projects (but they are all at Gitlab, so... you won't see anything related to my professional work here, only codes i've made for fun :)
 
-- 🌱 I’m currently learning Dark side of React and React Native and some Kotlin, i'm loving mobile development
+## ⚡ Tech Stack
 
-- 💬 Ask me about anything. if i don't know, i can find the answer
+* :books: Javascript | Kotlin 
+* :atom: React | React Native
+* :octocat: Git | Github | Gitlab
+* 🌐 HTML | CSS
 
-- 📫 How to reach me: https://www.linkedin.com/in/guilhermeborelli/
+## 📫 Get in touch
+- LinkedIn - [Link](https://www.linkedin.com/in/guilhermeborelli/)
+- My Personal Page - [Link](https://good-repository.github.io/)
+- My Whatsapp - [Link](https://wa.me/5548991509631)
 
-(i'm improving this description, so please don't judge me!)
+ or give some ♥ on [mail](mailto:borelli.guilherme@gmail.com) .
+
+
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=good-repository/good-repository)
+
+
+ 
