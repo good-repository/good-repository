@@ -7,15 +7,15 @@ A Fullstack web and mobile Developer. I'm currently working at W16 Software Hous
 
 ## ⚡ Tech Stack
 
-* :books: Javascript | Kotlin 
+* :books: Javascript
 * :atom: React | React Native
 * :octocat: Git | Github | Gitlab
 * 🌐 HTML | CSS
 
 ## 📫 Get in touch
-- LinkedIn - [Link](https://www.linkedin.com/in/guilhermeborelli/)
-- My Personal Page - [Link](https://good-repository.github.io/)
-- My Whatsapp - [Link](https://wa.me/5548991509631)
+- [LinkedIn](https://www.linkedin.com/in/guilhermeborelli/)
+- [Personal Page](https://good-repository.github.io/)
+- [Whatsapp](https://wa.me/5548991509631)
 
  or give some ♥ on [mail](mailto:borelli.guilherme@gmail.com) .
 
