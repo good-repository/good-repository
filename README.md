@@ -18,10 +18,3 @@ A Fullstack web and mobile Developer. I'm currently working at W16 Software Hous
 - [Whatsapp](https://wa.me/5548991509631)
 
  or give some ♥ on [mail](mailto:borelli.guilherme@gmail.com) .
-
-
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=good-repository/good-repository)
-
-
- 
