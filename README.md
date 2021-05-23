@@ -7,6 +7,7 @@ A Fullstack web and mobile Developer. I'm currently working at W16 Software Hous
 
 ## ⚡ Tech Stack
 
+* 📱 Android
 * :books: Javascript | Typescript
 * :atom: React | React Native
 * :octocat: Git | Github | Gitlab
