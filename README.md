@@ -1,7 +1,7 @@
 
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I'm Guilherme Fünkler Borelli
 
-A Fullstack web and mobile Developer. I'm currently working at W16 Software House in Florianópolis - Brazil.
+A Frontend and Mobile Developer. I'm currently working at W16 Software House in Florianópolis - Brazil.
 
 
 
